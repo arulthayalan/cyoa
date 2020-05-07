@@ -5,7 +5,7 @@ import (
 	"html/template"
 	"log"
 	"net/http"
-	"github.com/arulthayalan/cyoa/cyoa"
+	"github.com/arulthayalan/cyoa"
 	"os"
 	"flag"
 	"fmt"
